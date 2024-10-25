@@ -41,11 +41,10 @@ DevOps, Python, cloud platforms (AWS, Azure, GCP), CI/CD pipelines, or anything 
 
 📫 How to reach me:
 Email: reddylokesh837@gmail.com
-LinkedIn: lokesh-reddy-vakada
-GitHub: GitHub Profile
+LinkedIn: [lokesh-reddy-vakada](https://www.linkedin.com/in/lokesh-reddy-vakada/)
+GitHub: [GitHub Profile](https://github.com/reddylokesh837)
 Phone: +91 7416680717
-Stack Overflow: Stack Overflow Profile
-Portfolio: www.yourportfolio.com
+Portfolio: [www.yourportfolio.com](https://reddylokesh837.github.io/)
 Location: Visakhapatnam, Andhra Pradesh
 
 
