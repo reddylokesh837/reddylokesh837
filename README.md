@@ -17,12 +17,12 @@ Here are some ideas to get you started:
 
 
 # Logged in as: VAKADA LOKESH REDDY
-# Role Configuration: Professional DevOps Engineer | Python Developer | Full-Stack Web Developer
+# Role Configuration: Professional DevSecOps Engineer | Python Developer | Full-Stack Web Developer
 
 lokesh@DevOps: ~ $ cd /root/home/lokesh
 
 👋 Hello, I'm Lokesh Reddy Vakada!
-An Accomplished Python DevOps Engineer with over 3 years of hands-on experience in cloud infrastructure management, automation, and full-stack development. My mission is to bring efficiency and scalability to every project I work on through seamless automation and optimized CI/CD pipelines.
+An Accomplished Python DevOps Engineer with over 4 years of hands-on experience in cloud infrastructure management, automation, and full-stack development. My mission is to bring efficiency and scalability to every project I work on through seamless automation and optimized CI/CD pipelines.
 
 🔭 I’m currently working on:
 Developing scalable CI/CD pipelines using Jenkins, Docker, and Kubernetes to automate deployments for cloud-native applications on AWS, Azure, and GCP. 🚀
@@ -37,7 +37,7 @@ Open-source DevOps tools that improve automation and infrastructure management. 
 Exploring more in-depth SRE (Site Reliability Engineering) practices and ways to build highly resilient, fault-tolerant systems using cloud infrastructure.
 
 💬 Ask me about:
-DevOps, Python, cloud platforms (AWS, Azure, GCP), CI/CD pipelines, or anything related to automation and cloud infrastructure management.
+DevSecOps, Python, cloud platforms (AWS, Azure, GCP), CI/CD pipelines, or anything related to automation and cloud infrastructure management.
 
 📫 How to reach me:
 Email: reddylokesh837@gmail.com
