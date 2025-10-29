@@ -19,10 +19,10 @@ Here are some ideas to get you started:
 # Logged in as: VAKADA LOKESH REDDY
 # Role Configuration: Professional DevSecOps Engineer | Python Developer | Full-Stack Web Developer
 
-lokesh@DevOps: ~ $ cd /root/home/lokesh
+lokesh@DevSecOps: ~ $ cd /root/home/lokesh
 
 👋 Hello, I'm Lokesh Reddy Vakada!
-An Accomplished Python DevOps Engineer with over 4 years of hands-on experience in cloud infrastructure management, automation, and full-stack development. My mission is to bring efficiency and scalability to every project I work on through seamless automation and optimized CI/CD pipelines.
+An Accomplished Python DevSecOps Engineer with over 4 years of hands-on experience in cloud infrastructure management, automation, and full-stack development. My mission is to bring efficiency and scalability to every project I work on through seamless automation and optimized CI/CD pipelines.
 
 🔭 I’m currently working on:
 Developing scalable CI/CD pipelines using Jenkins, Docker, and Kubernetes to automate deployments for cloud-native applications on AWS, Azure, and GCP. 🚀
@@ -31,7 +31,7 @@ Developing scalable CI/CD pipelines using Jenkins, Docker, and Kubernetes to aut
 Advanced AWS services like Lambda, Fargate, and EventBridge to create serverless architectures, as well as Kubernetes Operators for automating cloud-native applications at scale.
 
 👯 I’m looking to collaborate on:
-Open-source DevOps tools that improve automation and infrastructure management. Always excited to contribute to full-stack projects using Django, Flask, and React! 😎
+Open-source DevSecOps tools that improve automation and infrastructure management. Always excited to contribute to full-stack projects using Django, Flask, and React! 😎
 
 🤔 I’m looking for help with:
 Exploring more in-depth SRE (Site Reliability Engineering) practices and ways to build highly resilient, fault-tolerant systems using cloud infrastructure.
